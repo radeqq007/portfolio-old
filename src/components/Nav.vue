@@ -100,7 +100,7 @@ nav {
   }
 
   .active .menu-toggle-bg {
-    scale: 100;
+    scale: 30; /* Cover up the whole screen */
   }
 
   .active nav {
